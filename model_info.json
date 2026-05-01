@@ -1,0 +1,10 @@
+{
+    "model_name": "EfficientNetB0",
+    "classes": [
+        "Eczema Photos",
+        "Lichen Planus",
+        "gül_hast",
+        "mantar",
+        "sedef"
+    ]
+}
